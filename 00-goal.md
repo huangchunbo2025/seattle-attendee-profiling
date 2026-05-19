@@ -23,6 +23,9 @@
 | 9 | Erika Borges | Head of Digital Growth & Customer Platforms | Salt & Straw | 手工冰淇淋/DTC食品 |
 | 10 | Sharief Y. | Director of AI and Software Engineering | VIZIO | 消费电子/智能电视 |
 | 11 | Michael Agustin | Head of Growth | The AI Collective | AI 咨询/社区 |
+| 12 | Farah Ali | VP, AI Transformation & Technology | Electronic Arts (EA) | 游戏/互动娱乐 |
+| 13 | Jesse Smith | Vice President of Data Science | Seattle Mariners | 职业体育/娱乐 |
+| 14 | Scott Bockheim | Head of AI Acceleration & Innovation | (企业) | AI 转型/企业 |
 
 ## 客户/利益相关方
 

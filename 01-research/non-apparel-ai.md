@@ -182,10 +182,100 @@
 
 ---
 
+## Electronic Arts (EA) — P1
+
+### 参会者
+- **Farah Ali** — VP, AI Transformation & Technology (在 EA 5 年+)
+- Board Member、Keynote Speaker，行业影响力大
+- VP 级别 AI 转型负责人 = 决策者
+
+### 核心发现
+
+**1. AI 深度嵌入游戏开发与玩家体验**
+- EA 是游戏行业 AI 先驱，将 AI 应用于: 程序化内容生成、NPC 智能、测试自动化、动态难度调整、个性化推荐、反作弊、玩家流失预测
+- SEED AI 研究实验室是核心 AI 研发引擎
+- Farah Ali 5 年+ VP 任期意味着已推动多轮 AI 战略落地
+
+**2. EA Play 订阅会员**
+- EA Play ($5.99/月) 和 EA Play Pro ($16.99/月) 两级订阅
+- 会员权益: 游戏试玩、折扣、独家内容
+- FIFA/FC、Madden、The Sims 等系列有深度玩家社区
+- 2024 年收入约 $7.5B
+
+### 对 Socialhub.AI 的启示
+- **VP 决策者 + Board Member**: Farah Ali 在采购决策中有直接影响力
+- **营销侧 AI 空白**: EA 的 AI 投入集中在游戏开发侧，营销侧个性化（玩家获取/留存/LTV）可能是 CIP 差异化切入点
+- **话术**: 游戏行业的玩家生命周期管理与零售会员运营有高度共通性
+
+### 风险/陷阱
+- 游戏行业 AI 需求独特，不能直接套用零售话术
+- Farah 是资深 AI 领导者，demo 需要展示真正的 AI 深度
+- EA 可能倾向自建（SEED 实验室能力强）
+
+---
+
+## Seattle Mariners — P2
+
+### 参会者
+- **Jesse Smith** — Vice President of Data Science
+- 在 Mariners 工作 **14 年+**，2024 年 1 月升任 VP
+- 从数据科学一路晋升，对球队数据体系有完整把控
+
+### 核心发现
+
+**1. 14 年数据科学演变**
+- Jesse Smith 见证了从传统 Sabermetrics 到现代 ML 的完整转型
+- 2024 年升任 VP = 数据团队在组织中的战略地位提升
+- 体育行业正在将 AI 从球场表现分析扩展到球迷体验个性化
+
+**2. 球迷会员与体验**
+- 赛季票持有者计划 + MLB Ballpark App 数字会员
+- T-Mobile Park 现场体验数据是核心资产
+- 球迷消费场景高度季节性（赛季 vs 非赛季）
+
+### 对 Socialhub.AI 的启示
+- **体育行业新兴场景**: 球迷全生命周期管理（赛季票→单场票→商品→餐饮→数字内容）
+- **Seattle 本地**: 可安排活动外深度交流
+- **数据人**: 用数据语言而非营销语言对话
+
+### 风险/陷阱
+- 体育球迷的情感维度独特，不能过度商业化
+- MLB 联盟层面可能有统一数字平台要求
+- 合同规模可能有限（单一球队 vs 联盟）
+
+---
+
+## Scott Bockheim — P2
+
+### 参会者
+- **Scott Bockheim** — Head of AI Acceleration & Innovation (2025 年 10 月起)
+- 专注: 规模化架构、韧性、数据信任、AI 赋能转型
+- 领导跨职能 AI 赋能项目，推动可量化业务影响
+
+### 核心发现
+
+**1. AI 转型加速角色**
+- 2025 年 10 月起担任 Head of AI Acceleration & Innovation
+- 职责: 制定 AI 战略、加速采纳、领导跨职能团队交付可量化业务成果
+- 在 Scale/Resiliency/Data Trust 方面有深厚经验
+
+### 对 Socialhub.AI 的启示
+- **AI 战略影响者**: 可能成为 Socialhub.AI 的推荐者或影响者
+- **跨职能视角**: 理解企业在客户智能方面的 AI 需求趋势
+- **话术**: 用战略语言而非产品功能语言对话
+
+### 风险/陷阱
+- 具体公司背景不完全明确，不要假设
+- 更可能是影响者/推荐者而非直接采购者
+
+---
+
 ## 关键跨公司情报
 
 - **Wei Manfredi (IHG) 曾在 Lululemon 任职** — 与 Russ Kasymov 有共同背景，活动现场可制造交叉对话
 - **Tom Hanrahan (RealReal) 仅入职 2 个月** — 正在积极评估工具
 - **Steven Zhu (Gopuff) 在 Seattle 本地** — 可安排活动外的深度技术交流
+- **Jesse Smith (Seattle Mariners) 也在 Seattle 本地** — 同样可约活动外交流
 - **Erika Borges (Salt & Straw) 是 lifecycle marketing 专家** — 曾服务 Target、Whole Foods、Albertsons
+- **Farah Ali (EA) 是 Board Member + Keynote Speaker** — 行业网络广泛，即使 EA 不成为直接客户，也是高价值人脉
 - **The AI Collective 有 Microsoft 合作** — 直接对齐 Co-sell 关系
