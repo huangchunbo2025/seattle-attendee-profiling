@@ -25,7 +25,7 @@
 | 11 | Michael Agustin | Head of Growth | The AI Collective | AI 咨询/社区 |
 | 12 | Farah Ali | VP, AI Transformation & Technology | Electronic Arts (EA) | 游戏/互动娱乐 |
 | 13 | Jesse Smith | Vice President of Data Science | Seattle Mariners | 职业体育/娱乐 |
-| 14 | Scott Bockheim | Head of AI Acceleration & Innovation | (企业) | AI 转型/企业 |
+| 14 | Scott Bockheim | Head of AI Acceleration & Innovation | Starbucks | 全球咖啡/餐饮零售 |
 
 ## 客户/利益相关方
 

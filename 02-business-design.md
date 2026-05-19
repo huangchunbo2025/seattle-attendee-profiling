@@ -218,16 +218,16 @@ Chunbo 在活动中的有效社交时间约 2-3 小时。按 **60/30/10** 分配
 
 ---
 
-#### 13. Scott Bockheim — P2
+#### 13. Starbucks — P0
 
 | 字段 | 内容 |
 |---|---|
-| **参会人** | Scott Bockheim / Head of AI Acceleration & Innovation (2025.10 起) |
-| **WHY NOW** | 正在主导企业 AI 转型战略和跨职能 AI 赋能项目，寻找 AI 合作伙伴和工具 |
-| **HOOK** | "企业 AI 落地最大的组织障碍是什么？跨职能赋能项目怎么推动？" |
-| **PAIN** | (1) 技术选型与业务价值对齐的挑战 (2) 跨部门 AI 赋能需要统一的数据和客户智能基础 |
-| **ASK** | 探讨 CIP 作为企业 AI 转型中客户智能层的角色 |
-| **RED LINE** | 不要假设知道他的具体公司；用战略语言而非产品功能语言 |
+| **参会人** | Scott Bockheim / Head of AI Acceleration & Innovation (Starbucks 13 年+, 前 Microsoft) |
+| **WHY NOW** | AI Acceleration 新岗(2025.10) = AI 战略加速期；Deep Brew 驱动 $16 亿数字收入 + 7500 万会员画像；前 Microsoft 人，Azure 生态天然亲切 |
+| **HOOK** | "您在 Starbucks 13 年见证了 Deep Brew 从概念到 $16 亿收入引擎的全过程，AI Acceleration 的下一个里程碑是什么？" |
+| **PAIN** | (1) Deep Brew→AI Agent 自主运营的跃迁可能需要新架构 (2) Green Dot Assist (Azure OpenAI) 刚部署，如何扩展到会员营销侧 |
+| **ASK** | 探讨 CIP 的 AI Agent 架构如何与 Deep Brew 生态协同，特别在会员运营自动化层面 |
+| **RED LINE** | 不暗示 Deep Brew 不够好(13 年心血)；不用入门级 AI 话术；定位"AI Agent 层补充"非替代 |
 
 ---
 
@@ -256,7 +256,7 @@ Chunbo 在活动中的有效社交时间约 2-3 小时。按 **60/30/10** 分配
 | **RealReal** | 4 | 1 | 2 | 3 | **2.5** | P2 |
 | **EA** | 3 | 3 | 5 | 5 | **3.9** | P1 |
 | **Seattle Mariners** | 2 | 3 | 3 | 3 | **2.7** | P2 |
-| **Scott Bockheim** | 3 | 2 | 3 | 2 | **2.5** | P2 |
+| **Starbucks** | 4 | 3 | 4 | 5 | **4.0** | P0 |
 | **VIZIO** | 1 | 1 | 2 | 2 | **1.4** | P3 |
 | **AI Collective** | — | — | — | — | — | Partner |
 

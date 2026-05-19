@@ -139,7 +139,7 @@
 | 8 | **Gopuff** | 3/5 | 中 | 中-高 | 付费制 | P2 |
 | 5 | **EA** | 3/5 | 中 | 高(自研) | 订阅制 | P1 |
 | 9 | **Seattle Mariners** | 3/5 | 中 | 未知 | 赛季票 | P2 |
-| 10 | **Scott Bockheim** | 2/5 | 中 | N/A | N/A | P2 |
+| 3 | **Starbucks** | 3/5 | 高 | 高(自研) | 7500 万 | **P0** |
 | 11 | **VIZIO** | 2/5 | 低 | 高(自建) | N/A | P3 |
 | 12 | **AI Collective** | N/A | — | — | — | Partner |
 

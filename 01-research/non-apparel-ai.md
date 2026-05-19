@@ -245,28 +245,50 @@
 
 ---
 
-## Scott Bockheim — P2
+## Starbucks — P0
 
 ### 参会者
-- **Scott Bockheim** — Head of AI Acceleration & Innovation (2025 年 10 月起)
-- 专注: 规模化架构、韧性、数据信任、AI 赋能转型
-- 领导跨职能 AI 赋能项目，推动可量化业务影响
+- **Scott Bockheim** — Head of AI Acceleration & Innovation (2025.10 起)
+- Starbucks 工作 **13 年+**，前 Microsoft
+- 20+ 年技术经验，密歇根理工大学 CS 学位
+- 专注: 规模化架构、数据信任、AI 转型
 
 ### 核心发现
 
-**1. AI 转型加速角色**
-- 2025 年 10 月起担任 Head of AI Acceleration & Innovation
-- 职责: 制定 AI 战略、加速采纳、领导跨职能团队交付可量化业务成果
-- 在 Scale/Resiliency/Data Trust 方面有深厚经验
+**1. Deep Brew — 全球 AI 驱动会员运营标杆**
+- Starbucks 自研 AI 引擎 Deep Brew (2019 起)，训练于数百万数据点
+- 驱动 **$16 亿** 数字收入运营
+- 覆盖: 个性化推荐、库存预测、劳动力调度、废弃物减少
+- **7500 万+** 全球活跃会员画像
+- AI 个性化推荐贡献 20-30% 数字订单提升，年度 upsell 收入 **$10 亿+**
+- 来源: https://www.growthhq.io/our-thinking/how-starbucks-is-redefining-coffee-with-ai-driven-personalization-deep-brew-green-dot-assist-and-the-future-of-retail-in-the-us-and-europe-2
+
+**2. Green Dot Assist — 生成式 AI 新部署**
+- 基于 **Microsoft Azure OpenAI** 的生成式 AI 助手
+- 部署到门店 POS 和咖啡师耳机
+- 功能: 复杂配方指导、过敏原合规、区域菜单本地化
+- 来源: https://www.linkedin.com/posts/scottbockheim_meet-green-dot-assist-starbucks-generative-activity-7338340938190069760-LLtt
+
+**3. 2026 路线图**
+- "预测式+语音优先"咖啡体验，覆盖 1000+ 门店
+- Scott Bockheim 2025.10 升任 Head of AI Acceleration = AI 战略进入加速阶段
+
+**4. Starbucks Rewards 会员计划**
+- 美国活跃会员 **3400 万+**（占美国交易的 ~57%）
+- 星级积分制 + 个性化推荐 + 移动点单
+- 全球最高下载量餐饮 App 之一
 
 ### 对 Socialhub.AI 的启示
-- **AI 战略影响者**: 可能成为 Socialhub.AI 的推荐者或影响者
-- **跨职能视角**: 理解企业在客户智能方面的 AI 需求趋势
-- **话术**: 用战略语言而非产品功能语言对话
+- **P0 级别**: Starbucks 是 AI 会员运营标杆，如能合作将是最强背书
+- **切入角度**: CIP 定位为 Deep Brew 生态之上的 **AI Agent 运营层** — 跨渠道会员旅程编排和个性化内容生成
+- **Microsoft 连接**: Green Dot Assist 基于 Azure OpenAI，Scott 前 Microsoft = 天然亲切 Co-sell 叙事
+- **Scott 的 AI Acceleration 新岗**: 正在寻找 AI 合作伙伴加速落地
 
 ### 风险/陷阱
-- 具体公司背景不完全明确，不要假设
-- 更可能是影响者/推荐者而非直接采购者
+- Deep Brew 是 Scott 13 年心血的一部分，绝不暗示不够好
+- Starbucks AI 能力极其成熟，demo 需展示真正的增量价值
+- 高度自研文化，替换可能性为零，只能定位"补充"
+- Scott 比大多数供应商更懂 AI at scale，不用入门级话术
 
 ---
 

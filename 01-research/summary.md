@@ -52,7 +52,7 @@
 | **P2** | Gopuff | CDP 空白 + Seattle 本地 | AI Agent 技术深度 |
 | **P1** | Electronic Arts | VP AI Transformation 5 年+，Board Member，$7.5B 收入 | AI 增强层 (玩家智能) |
 | **P2** | Seattle Mariners | VP Data Science 14 年老兵，Seattle 本地 | 球迷全生命周期管理 |
-| **P2** | Scott Bockheim | Head of AI Acceleration，跨职能 AI 赋能 | AI 战略对话 + 推荐者 |
+| **P0** | Starbucks | Scott Bockheim, Head of AI Acceleration, 13 年+，前 MSFT | Deep Brew 生态 AI Agent 协同 |
 | **P3** | VIZIO | Walmart 生态入口 | 技术合作探索 |
 | **Partner** | AI Collective | 225K 社区 + MS 合作伙伴 | 渠道合作 |
 
